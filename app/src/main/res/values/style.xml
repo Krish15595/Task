@@ -1,0 +1,36 @@
+<resources>
+
+    <style name="datepicker" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <!--
+        <style name="ActionBar" parent="Theme.MaterialComponents.Light">
+            &lt;!&ndash; Customize your theme here. &ndash;&gt;
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+        </style>
+
+        <style name="MyDatePickerDialog" parent="android:style/Widget.Material.Light.DatePicker">
+            <item name="android:datePickerDialogTheme" tools:ignore="NewApi">@color/colorPrimary</item>
+            <item name="android:headerBackground">@color/colorPrimary</item>
+            <item name="android:foreground">@color/colorPrimary</item>
+        </style>
+
+        <style name="datepicker" parent="Theme.AppCompat.Light.Dialog">
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimary</item>
+            <item name="colorAccent">@color/colorPrimary</item>
+        </style>
+        <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+            <item name="color">@android:color/white</item>
+        </style>-->
+</resources>
