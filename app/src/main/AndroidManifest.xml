@@ -30,7 +30,7 @@
         <activity
             android:name="com.d2k.task.ui.carousel.CarouselActivity"
             android:exported="true"
-            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+            android:theme="@style/Theme.Task.NoActionBar" />
     </application>
 
 </manifest>
